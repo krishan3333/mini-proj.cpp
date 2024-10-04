@@ -17,7 +17,7 @@ int main()
 
     for (int i = 0; i < size; i++)
     {
-            cout<<"*************************"<<endl;
+        cout<<"*************************"<<endl;
         cout << question[i] << endl;
         cout<<"*************************"<<endl;
         for (int j = 0; j < 4; j++)
